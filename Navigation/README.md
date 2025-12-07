@@ -1,7 +1,3 @@
-ঠিক আছে! আমি আপনার জন্য **একটি super simple, copy-paste ready README** বানিয়ে দিচ্ছি, যেখানে structure সহ সব কিছু পরিষ্কারভাবে দেখানো আছে।
-
----
-
 # README.md
 
 ````markdown
