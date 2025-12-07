@@ -1,8 +1,3 @@
-# README.md
-
-````markdown
-# App-Navigation-Compose
-
 Ready-to-use **Navigation module** for Android Jetpack Compose.  
 Just download or clone this repo and copy the `navigation` folder into your project.
 
